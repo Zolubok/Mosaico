@@ -1,3 +1,3 @@
-let not() {
+function not() {
   alert("Voce foi avisado") ;
 }
